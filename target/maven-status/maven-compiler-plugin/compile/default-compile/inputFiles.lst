@@ -1,0 +1,14 @@
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/Register.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/RecommendItem.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/external/GitHubClient.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/db/MySQLDBUtil.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/Login.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/external/MonkeyLearnClient.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/SearchItem.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/ItemHistory.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/recommendation/Recommendation.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/entity/Item.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/db/MySQLConnection.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/Logout.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/rpc/RpcHelper.java
+/Users/leowang/eclipse-workspace/jupiter/src/main/java/db/MySQLTableCreation.java
